@@ -1,0 +1,84 @@
+{"frames": {
+
+"$50/selectionBackgroundsPortrait_50":
+{
+	"frame": {"x":2,"y":2,"w":810,"h":1131},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":810,"h":1131},
+	"sourceSize": {"w":810,"h":1228},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"$200/selectionBackgroundsPortrait_200":
+{
+	"frame": {"x":2,"y":2,"w":810,"h":1131},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":810,"h":1131},
+	"sourceSize": {"w":810,"h":1228},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"$500/selectionBackgroundsPortrait_500":
+{
+	"frame": {"x":815,"y":2,"w":810,"h":1131},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":810,"h":1131},
+	"sourceSize": {"w":810,"h":1228},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"$2000/selectionBackgroundsPortrait_2000":
+{
+	"frame": {"x":2,"y":1136,"w":810,"h":1131},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":810,"h":1131},
+	"sourceSize": {"w":810,"h":1228},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Base/selectionBackgroundsPortrait":
+{
+	"frame": {"x":2,"y":2,"w":810,"h":1131},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":810,"h":1131},
+	"sourceSize": {"w":810,"h":1228},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"generic/portrait_darkBlueSelBG":
+{
+	"frame": {"x":815,"y":2,"w":810,"h":1131},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":810,"h":1131},
+	"sourceSize": {"w":810,"h":1228},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"generic/portrait_purpleSelBG":
+{
+	"frame": {"x":2,"y":1136,"w":810,"h":1131},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":810,"h":1131},
+	"sourceSize": {"w":810,"h":1228},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"generic/portrait_redSelBG":
+{
+	"frame": {"x":2,"y":2,"w":810,"h":1131},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":810,"h":1131},
+	"sourceSize": {"w":810,"h":1228},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "game-3.png",
+	"format": "RGBA8888",
+	"size": {"w":1627,"h":1948},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:86b0e2248206fc9f616345b1cca2959e:92f73a23ee0566df8095c31667936e47:42eec5f0822d0ad91c9fcb806ebb28cb$"
+}
+}

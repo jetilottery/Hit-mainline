@@ -1,0 +1,23 @@
+{
+  "toggleAutoPlay": false,
+  "showHowToPlayOnLoad": true,
+  "bonusItemInterval": 0.5,
+  "autoPlayWinningNumberInterval": 0,
+  "autoPlayPlayerNumberInterval": 0.2,
+  "autoPlayPlayerNumberDelay": 0.5,
+  "autoPlayBonusItemDelay": 0.5,
+  "winAllRollupLowerDurationInSeconds": 2,
+  "winAllRollupHigherDurationInSeconds": 2,
+  "playerNumbersAnimationSpeed": 0.5,
+  "winningNumbersAnimationSpeed": 0.5,
+  "showResultScreen": true,
+  "winAllHighlightInterval": 0.1,
+  "pricePointSpecificAssets": true,
+  "playerNumberIdleInterval": 4,
+  "winningNumberIdleInterval": 7,
+  "bonusItemIdleInterval": 5,
+  "idleIntervalVariation": 0.25,
+  "bonusCoinBurstAnimationSpeed": 0.5,
+  "pigExplodeAnimationSpeed": 1,
+  "autoDetectBonusCurrencySymbol": true
+}

@@ -1,0 +1,138 @@
+{"frames": {
+
+"$500/1-luckyNumberCover-assets/500_luckyNumberCover04":
+{
+	"frame": {"x":1,"y":1,"w":140,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":70,"w":140,"h":140},
+	"sourceSize": {"w":279,"h":279},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"$500/1-luckyNumberCover-assets/500_luckyNumberCover05":
+{
+	"frame": {"x":143,"y":1,"w":140,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":70,"w":140,"h":140},
+	"sourceSize": {"w":279,"h":279},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"$500/1-luckyNumberCover-assets/500_luckyNumberCover06":
+{
+	"frame": {"x":285,"y":1,"w":140,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":70,"w":140,"h":140},
+	"sourceSize": {"w":279,"h":279},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"$500/1-luckyNumberCover-assets/500_luckyNumberCover12":
+{
+	"frame": {"x":427,"y":1,"w":140,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":70,"w":140,"h":140},
+	"sourceSize": {"w":279,"h":279},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"$500/1-luckyNumberCover-assets/500_luckyNumberCover13":
+{
+	"frame": {"x":569,"y":1,"w":140,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":70,"w":140,"h":140},
+	"sourceSize": {"w":279,"h":279},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"$500/1-luckyNumberCover-assets/500_luckyNumberCover14":
+{
+	"frame": {"x":711,"y":1,"w":140,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":70,"w":140,"h":140},
+	"sourceSize": {"w":279,"h":279},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"$500/1-luckyNumberCover-assets/500_luckyNumberCover16":
+{
+	"frame": {"x":853,"y":1,"w":140,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":70,"w":140,"h":140},
+	"sourceSize": {"w":279,"h":279},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Generic/blue/1-luckyNumberCover-assets/blue_luckyNumberCover04":
+{
+	"frame": {"x":1,"y":1,"w":140,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":70,"w":140,"h":140},
+	"sourceSize": {"w":279,"h":279},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Generic/blue/1-luckyNumberCover-assets/blue_luckyNumberCover05":
+{
+	"frame": {"x":143,"y":1,"w":140,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":70,"w":140,"h":140},
+	"sourceSize": {"w":279,"h":279},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Generic/blue/1-luckyNumberCover-assets/blue_luckyNumberCover06":
+{
+	"frame": {"x":285,"y":1,"w":140,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":70,"w":140,"h":140},
+	"sourceSize": {"w":279,"h":279},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Generic/blue/1-luckyNumberCover-assets/blue_luckyNumberCover12":
+{
+	"frame": {"x":427,"y":1,"w":140,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":70,"w":140,"h":140},
+	"sourceSize": {"w":279,"h":279},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Generic/blue/1-luckyNumberCover-assets/blue_luckyNumberCover13":
+{
+	"frame": {"x":569,"y":1,"w":140,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":70,"w":140,"h":140},
+	"sourceSize": {"w":279,"h":279},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Generic/blue/1-luckyNumberCover-assets/blue_luckyNumberCover14":
+{
+	"frame": {"x":711,"y":1,"w":140,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":70,"w":140,"h":140},
+	"sourceSize": {"w":279,"h":279},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Generic/blue/1-luckyNumberCover-assets/blue_luckyNumberCover16":
+{
+	"frame": {"x":853,"y":1,"w":140,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":70,"w":140,"h":140},
+	"sourceSize": {"w":279,"h":279},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "animations-2.png",
+	"format": "RGBA8888",
+	"size": {"w":994,"h":142},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c3e9e24182563c34c98a43123168638a:accb840ecce0c9cdbfff490fae71b234:128e4a45169a5dd7623ed21369d8a9fd$"
+}
+}

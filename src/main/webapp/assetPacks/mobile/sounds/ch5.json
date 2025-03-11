@@ -1,0 +1,29 @@
+{
+  "urls": [
+    "ch5.mp3",
+    "ch5.ogg",
+    "ch5.m4a"
+  ],
+  "sprite": {
+    "LuckyNumberSelect_2": [
+      0,
+      1063.061224489796
+    ],
+    "NumberSelect_3": [
+      3000,
+      1029.0702947845807
+    ],
+    "WinningNumberSelect2": [
+      6000,
+      2250
+    ],
+    "WinScale_5": [
+      10000,
+      1496.8027210884359
+    ],
+    "YourNumberSelect3": [
+      13000,
+      1599.9999999999995
+    ]
+  }
+}

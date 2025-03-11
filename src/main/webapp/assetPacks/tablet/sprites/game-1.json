@@ -1,0 +1,66 @@
+{"frames": {
+
+"$50/selectionBackgrounds_50":
+{
+	"frame": {"x":2,"y":2,"w":1440,"h":740},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":1440,"h":740},
+	"sourceSize": {"w":1440,"h":810},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"$200/selectionBackgrounds_200":
+{
+	"frame": {"x":2,"y":2,"w":1440,"h":740},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":1440,"h":740},
+	"sourceSize": {"w":1440,"h":810},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"$2000/selectionBackgrounds_2000":
+{
+	"frame": {"x":2,"y":745,"w":1440,"h":740},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":1440,"h":740},
+	"sourceSize": {"w":1440,"h":810},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Base/selectionBackgrounds":
+{
+	"frame": {"x":2,"y":2,"w":1440,"h":740},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":1440,"h":740},
+	"sourceSize": {"w":1440,"h":810},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"generic/landscape_purpleSelBG":
+{
+	"frame": {"x":2,"y":745,"w":1440,"h":740},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":1440,"h":740},
+	"sourceSize": {"w":1440,"h":810},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"generic/landscape_redSelBG":
+{
+	"frame": {"x":2,"y":2,"w":1440,"h":740},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":1440,"h":740},
+	"sourceSize": {"w":1440,"h":810},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "game-1.png",
+	"format": "RGBA8888",
+	"size": {"w":1444,"h":1487},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:86b0e2248206fc9f616345b1cca2959e:92f73a23ee0566df8095c31667936e47:42eec5f0822d0ad91c9fcb806ebb28cb$"
+}
+}

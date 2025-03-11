@@ -1,0 +1,106 @@
+{
+  "version":"",
+  "Paytable": {
+    "paybackBody": "For this game, the long-term, theoretically-expected payback {RTP}.",
+    "RTPvalue": "is {@minRTP}%",
+    "RTPrange": "is from {@minRTP}% to {@maxRTP}%",
+    "paybackTitle": "Expected Payback",
+    "subheading": "Ticket Cost: {ticketCost}",
+    "prizeLevel": "Prize Level",
+    "prizeValue": "Prize Value"
+  },
+  "title": "HIT",
+  "MenuCommand": {
+    "price": "Price",
+    "stake": "Stake",
+    "howToPlay": "Help",
+    "paytable": "Paytable",
+    "close": "Close",
+    "audio": {
+      "sound": "Sound",
+      "on": "On",
+      "off": "Off"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Error: ",
+    "genericErrorText": "There has been an internal error. EXIT and relaunch the game."
+  },
+  "Game": {
+    "footer_balance": "BALANCE",
+    "footer_ticketCost": "TICKET COST",
+    "ticketSelect_ticketCost": "TICKET COST",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "DEMO "
+    },
+    "footer_win": {
+      "BUY": "WINS",
+      "TRY": "DEMO WINS"
+    },
+
+    "button_buy": {
+      "BUY": "BUY",
+      "TRY": "TRY"
+    },
+    "button_try": "TRY",
+    "button_continue": "CONTINUE",
+    "button_moveToMoney": "PLAY WITH MONEY",
+    "button_autoPlay": "REVEAL ALL",
+    "button_stop": "STOP",
+    "button_playAgain":{
+      "BUY": "PLAY AGAIN",
+      "TRY": "TRY AGAIN"
+    },
+    "button_tryAgain": "TRY AGAIN",
+    "button_ok": "OK",
+    "button_exit": "EXIT",
+    "button_retry": "RETRY",
+    "error_button_exit": "EXIT",
+    "error_title": "ERROR",
+    
+    "message_nonWin": "BETTER LUCK\nNEXT TIME",
+    "message_win": {
+      "BUY": "CONGRATULATIONS!\nYOU HAVE WON",
+      "TRY": "THANKS FOR PLAYING!\nYOU COULD HAVE WON"
+    },
+
+    "howToPlay": {
+      "title":"HOW TO PLAY",
+      "page1":{
+        "landscape":{
+          "text1":"Match Your Numbers to Lucky Numbers and win a prize.",
+          "text2":"Reveal {img} to double the prize amount.",
+          "text3":"Reveal {img} and win all prizes instantly."
+        },
+        "portrait":{
+          "text1":"Match Your Numbers to Lucky Numbers and win a prize.",
+          "text2":"Reveal {img} to double the prize amount.",
+          "text3":"Reveal {img} and win all prizes instantly."
+        }
+      },
+      "page2":{
+        "landscape":{
+          "text1":"Reveal 5 Hammers {img} in Your Numbers to enter the Bonus game.",
+          "text2":"Bonus Game\nSmash 3 coin-filled piggy banks to win a prize.\nSmash 3 empty piggy banks, or win the top prize, to finish the game."
+        },
+        "portrait":{
+          "text1":"Reveal 5 Hammers {img} in Your Numbers to enter the Bonus game.",
+          "text2":"Bonus Game\nSmash 3 coin-filled piggy banks to win a prize.\nSmash 3 empty piggy banks, or win the top prize, to finish the game."
+        }
+      }
+    },
+
+    "winUpTo": "WIN UP TO {0}!",
+    "bonus": "BONUS",
+    "bonusNoWin": "NO BONUS WIN",
+    "bonusWinL": "PRIZE VALUE: {0}",
+    "bonusWinP": "PRIZE VALUE:\n {0}",
+
+    "winAll":"WIN ALL",
+    "winAllIcon":"WIN ALL",
+    
+    "yourNumbers": "YOUR NUMBERS",
+    "luckyNumbers": "LUCKY NUMBERS"
+  }
+}

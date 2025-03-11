@@ -1,0 +1,246 @@
+{"frames": {
+
+"$50/landscape_gameLogo_50":
+{
+	"frame": {"x":437,"y":769,"w":381,"h":165},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":381,"h":165},
+	"sourceSize": {"w":381,"h":165},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"$50/portrait_gameLogo_50":
+{
+	"frame": {"x":437,"y":936,"w":348,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":348,"h":151},
+	"sourceSize": {"w":348,"h":151},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"$100/landscape_gameLogo_100":
+{
+	"frame": {"x":482,"y":158,"w":445,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":445,"h":160},
+	"sourceSize": {"w":445,"h":160},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"$100/portrait_gameLogo_100":
+{
+	"frame": {"x":479,"y":468,"w":406,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":406,"h":146},
+	"sourceSize": {"w":406,"h":146},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"$200/landscape_gameLogo_200":
+{
+	"frame": {"x":1,"y":325,"w":476,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":0,"w":476,"h":165},
+	"sourceSize": {"w":499,"h":165},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"$200/portrait_gameLogo_200":
+{
+	"frame": {"x":482,"y":320,"w":421,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":0,"w":421,"h":146},
+	"sourceSize": {"w":441,"h":146},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"$300/landscape_gameLogo_300":
+{
+	"frame": {"x":1,"y":158,"w":479,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":479,"h":165},
+	"sourceSize": {"w":499,"h":165},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"$300/portrait_gameLogo_300":
+{
+	"frame": {"x":289,"y":659,"w":424,"h":146},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":0,"w":424,"h":146},
+	"sourceSize": {"w":441,"h":146},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"$500/landscape_gameLogo_500":
+{
+	"frame": {"x":1,"y":492,"w":438,"h":165},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":438,"h":165},
+	"sourceSize": {"w":438,"h":165},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"$500/portrait_gameLogo_500":
+{
+	"frame": {"x":441,"y":616,"w":400,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":151},
+	"sourceSize": {"w":400,"h":151},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"$1000/landscape_gameLogo_1000":
+{
+	"frame": {"x":501,"y":1,"w":486,"h":155},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":486,"h":155},
+	"sourceSize": {"w":486,"h":155},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"$1000/portrait_gameLogo_1000":
+{
+	"frame": {"x":145,"y":659,"w":445,"h":142},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":445,"h":142},
+	"sourceSize": {"w":445,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"$2000/landscape_gameLogo_2000":
+{
+	"frame": {"x":1,"y":1,"w":498,"h":155},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":498,"h":155},
+	"sourceSize": {"w":498,"h":155},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"$2000/portrait_gameLogo_2000":
+{
+	"frame": {"x":1,"y":659,"w":454,"h":142},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":454,"h":142},
+	"sourceSize": {"w":454,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Base/landscape_gameLogo":
+{
+	"frame": {"x":437,"y":769,"w":381,"h":165},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":381,"h":165},
+	"sourceSize": {"w":381,"h":165},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Base/portrait_gameLogo":
+{
+	"frame": {"x":437,"y":936,"w":348,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":348,"h":151},
+	"sourceSize": {"w":348,"h":151},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"generic/landscape/landscape_blueLogo":
+{
+	"frame": {"x":1,"y":1115,"w":226,"h":153},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":6,"w":226,"h":153},
+	"sourceSize": {"w":242,"h":165},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"generic/landscape/landscape_goldLogo":
+{
+	"frame": {"x":156,"y":1106,"w":226,"h":153},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":6,"w":226,"h":153},
+	"sourceSize": {"w":242,"h":165},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"generic/landscape/landscape_orangeLogo":
+{
+	"frame": {"x":311,"y":1089,"w":226,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":6,"w":226,"h":153},
+	"sourceSize": {"w":242,"h":165},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"generic/landscape/landscape_purpleLogo":
+{
+	"frame": {"x":539,"y":1089,"w":226,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":6,"w":226,"h":153},
+	"sourceSize": {"w":242,"h":165},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"generic/landscape/landscape_redLogo":
+{
+	"frame": {"x":820,"y":824,"w":226,"h":153},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":6,"w":226,"h":153},
+	"sourceSize": {"w":242,"h":165},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"generic/portrait/portrait_blueLogo":
+{
+	"frame": {"x":311,"y":1244,"w":206,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":6,"w":206,"h":140},
+	"sourceSize": {"w":221,"h":151},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"generic/portrait/portrait_goldLogo":
+{
+	"frame": {"x":519,"y":1244,"w":206,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":6,"w":206,"h":140},
+	"sourceSize": {"w":221,"h":151},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"generic/portrait/portrait_orangeLogo":
+{
+	"frame": {"x":727,"y":1244,"w":206,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":6,"w":206,"h":140},
+	"sourceSize": {"w":221,"h":151},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"generic/portrait/portrait_purpleLogo":
+{
+	"frame": {"x":843,"y":616,"w":206,"h":140},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":6,"w":206,"h":140},
+	"sourceSize": {"w":221,"h":151},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"generic/portrait/portrait_redLogo":
+{
+	"frame": {"x":767,"y":1089,"w":206,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":6,"w":206,"h":140},
+	"sourceSize": {"w":221,"h":151},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "i18n.png",
+	"format": "RGBA8888",
+	"size": {"w":988,"h":1385},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4b6e8116b7885b21bb9eee6c206daa23:79dfb1be81f2a742e141f4cabf3b0e6b:75f4e1c5501bdd47cd0852bfeaabcd82$"
+}
+}

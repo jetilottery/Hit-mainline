@@ -1,0 +1,13 @@
+{
+  "urls": [
+    "ch0.mp3",
+    "ch0.ogg",
+    "ch0.m4a"
+  ],
+  "sprite": {
+    "MusicLoop": [
+      0,
+      24000
+    ]
+  }
+}

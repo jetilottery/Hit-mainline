@@ -1,0 +1,21 @@
+{
+  "urls": [
+    "ch6.mp3",
+    "ch6.ogg",
+    "ch6.m4a"
+  ],
+  "sprite": {
+    "LuckyNumberSelect_3": [
+      0,
+      1003.4013605442176
+    ],
+    "NumberSelect_4": [
+      3000,
+      1047.324263038549
+    ],
+    "PiggyRollover_1a": [
+      6000,
+      1277.50566893424
+    ]
+  }
+}
